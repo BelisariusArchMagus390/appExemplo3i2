@@ -1,6 +1,51 @@
 /**/
 .display {
-    height: 80px;
+    height: 50px;
     font-size: 60px;
 }
 
+.back{
+  background-color: aquamarine;
+  border-color: aquamarine;
+  color: white;
+}
+
+.linha{
+  margin-top: 10px;
+}
+
+body{
+  background-color: #3f3e41;
+}
+
+.btn-primary{
+  background-color:  #7f7d82;
+  border-color: #7f7d82;
+  color: aqua;
+  }
+
+  .btn-success{
+    background-color: #656468;
+    border-color: #656468;
+    color: aqua;
+  }
+
+  .btn-danger{
+    background-color: #656468;
+    border-color: #656468;
+    color: aqua;
+  }
+
+h1{
+  color: aqua;
+  border: 5px;
+  border-color: black;
+}
+
+#first{
+  background-color: #3f3e41;
+}
+
+.btn-block{
+  width: 40px;
+}
